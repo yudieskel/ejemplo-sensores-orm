@@ -15,6 +15,6 @@ Tenemos dos rutas: 1-sensors
 
 iniciar: npm run start
 
-Postman
+Postman:
 https://documenter.getpostman.com/view/17127468/UUy7cQkX
 https://www.getpostman.com/collections/4e2a54790053248b02dd
