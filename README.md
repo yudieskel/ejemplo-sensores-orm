@@ -1,4 +1,5 @@
 # ejemplo-sensores-orm
+Ejercicio de Sensores.
 Utilizando Sequelize, librería pg y pg-hstore en node.js
 
 Tenemos dos rutas: 1-sensors 
